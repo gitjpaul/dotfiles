@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = smax3@hotmail.fr
+	name = Paul JAMES
